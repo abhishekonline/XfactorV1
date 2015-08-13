@@ -89,8 +89,7 @@
     -->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" >
-    </uses-permission>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <uses-feature
         android:glEsVersion="0x00020000"
@@ -148,7 +147,7 @@
             android:theme="@android:style/Theme.Translucent" />
         <activity
             android:name="org.twinone.locker.lock.List_CAtegoriy"
-            android:theme="@android:style/Theme.NoDisplay"
+            android:theme="@android:style/Theme.Dialog"
             android:uiOptions="splitActionBarWhenNarrow" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -164,6 +163,14 @@
         <service android:name="org.twinone.locker.lock.FetchAddressIntentService" />
         <service android:name="org.twinone.locker.lock.BluetoothService" />
 
+        <!-- added by Julie for pickup pattern recognition -->
+
+        <service android:name="org.twinone.locker.pickup.ScreenOnOffService" >
+            <intent-filter>
+                <action android:name="org.twinone.locker.pickup.AEScreenOnOffService" />
+            </intent-filter>
+        </service>
+
         <receiver android:name="org.twinone.locker.receivers.OutgoingCallReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
@@ -177,6 +184,11 @@
         <receiver android:name="org.twinone.locker.receivers.NetworkStateReceiver" >
             <intent-filter>
                 <action android:name="android.net.wifi.STATE_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="org.twinone.locker.lock.AppLockService$PickupReceiver" >
+            <intent-filter>
+                <action android:name="org.twinone.locker.pickup.result" />
             </intent-filter>
         </receiver>
         <receiver android:name="org.twinone.locker.version.Receiver" >

@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from AndroidManifest.xml:2:1
-	xmlns:android
-		ADDED from AndroidManifest.xml:2:11
 	package
 		ADDED from AndroidManifest.xml:3:5
 		INJECTED from AndroidManifest.xml:0:0
@@ -13,8 +11,11 @@ ADDED from AndroidManifest.xml:2:1
 		ADDED from AndroidManifest.xml:4:5
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
 uses-sdk
 ADDED from AndroidManifest.xml:7:5
+MERGED from com.android.support:multidex:1.0.0:18:5
 MERGED from com.android.support:appcompat-v7:22.0.0:20:5
 MERGED from com.android.support:support-v4:22.0.0:20:5
 MERGED from com.google.android.gms:play-services:7.5.0:18:5
@@ -113,12 +114,12 @@ supports-screens
 ADDED from AndroidManifest.xml:11:5
 	android:largeScreens
 		ADDED from AndroidManifest.xml:13:9
-	android:anyDensity
-		ADDED from AndroidManifest.xml:12:9
-	android:normalScreens
-		ADDED from AndroidManifest.xml:14:9
 	android:smallScreens
 		ADDED from AndroidManifest.xml:15:9
+	android:normalScreens
+		ADDED from AndroidManifest.xml:14:9
+	android:anyDensity
+		ADDED from AndroidManifest.xml:12:9
 uses-feature#android.hardware.telephony
 ADDED from AndroidManifest.xml:17:5
 	android:required
@@ -219,43 +220,43 @@ MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
 	android:name
 		ADDED from AndroidManifest.xml:53:22
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from AndroidManifest.xml:55:5
+ADDED from AndroidManifest.xml:56:5
 	android:name
-		ADDED from AndroidManifest.xml:55:19
+		ADDED from AndroidManifest.xml:56:19
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from AndroidManifest.xml:59:5
+ADDED from AndroidManifest.xml:61:5
 	android:name
-		ADDED from AndroidManifest.xml:59:22
+		ADDED from AndroidManifest.xml:61:22
 uses-permission#android.permission.BLUETOOTH
-ADDED from AndroidManifest.xml:65:5
+ADDED from AndroidManifest.xml:67:5
 	android:name
-		ADDED from AndroidManifest.xml:65:22
+		ADDED from AndroidManifest.xml:67:22
 uses-permission#com.android.alarm.permission.SET_ALARM
-ADDED from AndroidManifest.xml:79:5
+ADDED from AndroidManifest.xml:83:5
 	android:name
-		ADDED from AndroidManifest.xml:79:22
+		ADDED from AndroidManifest.xml:83:22
 uses-permission#android.permission.WAKE_LOCK
-ADDED from AndroidManifest.xml:80:5
+ADDED from AndroidManifest.xml:84:5
 	android:name
-		ADDED from AndroidManifest.xml:80:22
+		ADDED from AndroidManifest.xml:84:22
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from AndroidManifest.xml:86:5
+ADDED from AndroidManifest.xml:90:5
 MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
 MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
 MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
 MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
 	android:name
-		ADDED from AndroidManifest.xml:86:22
+		ADDED from AndroidManifest.xml:90:22
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from AndroidManifest.xml:87:5
+ADDED from AndroidManifest.xml:91:5
 	android:name
-		ADDED from AndroidManifest.xml:87:22
+		ADDED from AndroidManifest.xml:91:22
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from AndroidManifest.xml:88:5
+ADDED from AndroidManifest.xml:92:5
 	android:name
-		ADDED from AndroidManifest.xml:89:9
+		ADDED from AndroidManifest.xml:92:22
 application
-ADDED from AndroidManifest.xml:97:5
+ADDED from AndroidManifest.xml:99:5
 MERGED from com.android.support:appcompat-v7:22.0.0:22:5
 MERGED from com.android.support:support-v4:22.0.0:22:5
 MERGED from com.google.android.gms:play-services:7.5.0:19:5
@@ -343,138 +344,158 @@ MERGED from com.google.android.gms:play-services-wearable:7.5.0:19:5
 MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
 MERGED from com.android.support:support-v4:22.0.0:22:5
 	android:label
-		ADDED from AndroidManifest.xml:101:9
+		ADDED from AndroidManifest.xml:103:9
 	android:allowBackup
-		ADDED from AndroidManifest.xml:99:9
+		ADDED from AndroidManifest.xml:101:9
 	android:icon
-		ADDED from AndroidManifest.xml:100:9
-	android:theme
 		ADDED from AndroidManifest.xml:102:9
-	android:name
-		ADDED from AndroidManifest.xml:98:9
-activity#org.twinone.locker.ui.MainActivity
-ADDED from AndroidManifest.xml:110:9
-	android:label
-		ADDED from AndroidManifest.xml:114:13
-	android:configChanges
-		ADDED from AndroidManifest.xml:112:13
 	android:theme
-		ADDED from AndroidManifest.xml:115:13
-	android:excludeFromRecents
-		ADDED from AndroidManifest.xml:113:13
+		ADDED from AndroidManifest.xml:104:9
 	android:name
-		ADDED from AndroidManifest.xml:111:13
-intent-filter#android.intent.action.MAIN+android.intent.action.SEARCH
-ADDED from AndroidManifest.xml:116:13
-action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:117:17
-	android:name
-		ADDED from AndroidManifest.xml:117:25
-action#android.intent.action.SEARCH
-ADDED from AndroidManifest.xml:118:17
-	android:name
-		ADDED from AndroidManifest.xml:118:25
-activity-alias#com.twinone.locker.MainActivityAlias
-ADDED from AndroidManifest.xml:122:9
+		ADDED from AndroidManifest.xml:100:9
+activity#org.twinone.locker.ui.MainActivity
+ADDED from AndroidManifest.xml:112:9
 	android:label
-		ADDED from AndroidManifest.xml:125:13
+		ADDED from AndroidManifest.xml:116:13
+	android:excludeFromRecents
+		ADDED from AndroidManifest.xml:115:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:114:13
+	android:theme
+		ADDED from AndroidManifest.xml:117:13
+	android:name
+		ADDED from AndroidManifest.xml:113:13
+intent-filter#android.intent.action.MAIN+android.intent.action.SEARCH
+ADDED from AndroidManifest.xml:118:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:119:17
+	android:name
+		ADDED from AndroidManifest.xml:119:25
+action#android.intent.action.SEARCH
+ADDED from AndroidManifest.xml:120:17
+	android:name
+		ADDED from AndroidManifest.xml:120:25
+activity-alias#com.twinone.locker.MainActivityAlias
+ADDED from AndroidManifest.xml:124:9
 	android:enabled
-		ADDED from AndroidManifest.xml:124:13
-	android:targetActivity
 		ADDED from AndroidManifest.xml:126:13
+	android:label
+		ADDED from AndroidManifest.xml:127:13
+	android:targetActivity
+		ADDED from AndroidManifest.xml:128:13
 	android:name
-		ADDED from AndroidManifest.xml:123:13
+		ADDED from AndroidManifest.xml:125:13
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:127:13
+ADDED from AndroidManifest.xml:129:13
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:130:17
+ADDED from AndroidManifest.xml:132:17
 	android:name
-		ADDED from AndroidManifest.xml:130:27
+		ADDED from AndroidManifest.xml:132:27
 activity#org.twinone.locker.util.LaunchInterstitialActivity
-ADDED from AndroidManifest.xml:133:9
+ADDED from AndroidManifest.xml:135:9
 	android:name
-		ADDED from AndroidManifest.xml:133:19
+		ADDED from AndroidManifest.xml:135:19
 activity#com.google.android.gms.ads.AdActivity
-ADDED from AndroidManifest.xml:136:9
+ADDED from AndroidManifest.xml:138:9
 MERGED from com.google.android.gms:play-services-ads:7.5.0:26:9
 	android:configChanges
-		ADDED from AndroidManifest.xml:138:13
+		ADDED from AndroidManifest.xml:140:13
 	android:theme
 		ADDED from com.google.android.gms:play-services-ads:7.5.0:29:13
 	android:name
-		ADDED from AndroidManifest.xml:137:13
+		ADDED from AndroidManifest.xml:139:13
 activity#org.twinone.locker.lock.List_CAtegoriy
-ADDED from AndroidManifest.xml:140:9
+ADDED from AndroidManifest.xml:142:9
 	android:uiOptions
-		ADDED from AndroidManifest.xml:142:13
+		ADDED from AndroidManifest.xml:145:13
 	android:theme
+		ADDED from AndroidManifest.xml:144:13
+	android:name
 		ADDED from AndroidManifest.xml:143:13
-	android:name
-		ADDED from AndroidManifest.xml:141:13
 intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
-ADDED from AndroidManifest.xml:145:13
+ADDED from AndroidManifest.xml:147:13
 category#android.intent.category.DEFAULT
-ADDED from AndroidManifest.xml:147:17
+ADDED from AndroidManifest.xml:149:17
 	android:name
-		ADDED from AndroidManifest.xml:147:27
+		ADDED from AndroidManifest.xml:149:27
 service#org.twinone.locker.lock.AppLockService
-ADDED from AndroidManifest.xml:151:9
-	android:name
-		ADDED from AndroidManifest.xml:151:18
-service#org.twinone.locker.lock.LockService
-ADDED from AndroidManifest.xml:152:9
-	android:name
-		ADDED from AndroidManifest.xml:152:18
-service#org.twinone.locker.lock.HelperService
 ADDED from AndroidManifest.xml:153:9
 	android:name
 		ADDED from AndroidManifest.xml:153:18
-service#org.twinone.locker.lock.WifiService
+service#org.twinone.locker.lock.LockService
 ADDED from AndroidManifest.xml:154:9
 	android:name
 		ADDED from AndroidManifest.xml:154:18
-service#org.twinone.locker.lock.FetchAddressIntentService
+service#org.twinone.locker.lock.HelperService
 ADDED from AndroidManifest.xml:155:9
 	android:name
 		ADDED from AndroidManifest.xml:155:18
-service#org.twinone.locker.lock.BluetoothService
+service#org.twinone.locker.lock.WifiService
 ADDED from AndroidManifest.xml:156:9
 	android:name
 		ADDED from AndroidManifest.xml:156:18
-receiver#org.twinone.locker.receivers.OutgoingCallReceiver
+service#org.twinone.locker.lock.FetchAddressIntentService
+ADDED from AndroidManifest.xml:157:9
+	android:name
+		ADDED from AndroidManifest.xml:157:18
+service#org.twinone.locker.lock.BluetoothService
 ADDED from AndroidManifest.xml:158:9
 	android:name
-		ADDED from AndroidManifest.xml:158:19
-intent-filter#android.intent.action.NEW_OUTGOING_CALL
-ADDED from AndroidManifest.xml:159:13
-action#android.intent.action.NEW_OUTGOING_CALL
-ADDED from AndroidManifest.xml:160:17
-	android:name
-		ADDED from AndroidManifest.xml:160:25
-receiver#org.twinone.locker.receivers.BootCompleteReceiver
+		ADDED from AndroidManifest.xml:158:18
+service#org.twinone.locker.pickup.ScreenOnOffService
 ADDED from AndroidManifest.xml:163:9
 	android:name
-		ADDED from AndroidManifest.xml:163:19
-intent-filter#android.intent.action.BOOT_COMPLETED
+		ADDED from AndroidManifest.xml:163:18
+intent-filter#org.twinone.locker.pickup.AEScreenOnOffService
 ADDED from AndroidManifest.xml:164:13
-action#android.intent.action.BOOT_COMPLETED
+action#org.twinone.locker.pickup.AEScreenOnOffService
 ADDED from AndroidManifest.xml:165:17
 	android:name
 		ADDED from AndroidManifest.xml:165:25
+receiver#org.twinone.locker.receivers.OutgoingCallReceiver
+ADDED from AndroidManifest.xml:169:9
+	android:name
+		ADDED from AndroidManifest.xml:169:19
+intent-filter#android.intent.action.NEW_OUTGOING_CALL
+ADDED from AndroidManifest.xml:170:13
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from AndroidManifest.xml:171:17
+	android:name
+		ADDED from AndroidManifest.xml:171:25
+receiver#org.twinone.locker.receivers.BootCompleteReceiver
+ADDED from AndroidManifest.xml:174:9
+	android:name
+		ADDED from AndroidManifest.xml:174:19
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:175:13
+action#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:176:17
+	android:name
+		ADDED from AndroidManifest.xml:176:25
 receiver#org.twinone.locker.receivers.NetworkStateReceiver
-ADDED from AndroidManifest.xml:168:9
+ADDED from AndroidManifest.xml:179:9
 	android:name
-		ADDED from AndroidManifest.xml:168:19
+		ADDED from AndroidManifest.xml:179:19
 intent-filter#android.net.wifi.STATE_CHANGE
-ADDED from AndroidManifest.xml:169:13
+ADDED from AndroidManifest.xml:180:13
 action#android.net.wifi.STATE_CHANGE
-ADDED from AndroidManifest.xml:170:17
+ADDED from AndroidManifest.xml:181:17
 	android:name
-		ADDED from AndroidManifest.xml:170:25
+		ADDED from AndroidManifest.xml:181:25
+receiver#org.twinone.locker.lock.AppLockService$PickupReceiver
+ADDED from AndroidManifest.xml:185:9
+	android:name
+		ADDED from AndroidManifest.xml:185:19
+intent-filter#org.twinone.locker.pickup.result
+ADDED from AndroidManifest.xml:186:13
+action#org.twinone.locker.pickup.result
+ADDED from AndroidManifest.xml:187:17
+	android:name
+		ADDED from AndroidManifest.xml:187:25
 receiver#org.twinone.locker.version.Receiver
-ADDED from AndroidManifest.xml:173:9
+ADDED from AndroidManifest.xml:191:9
 	android:name
-		ADDED from AndroidManifest.xml:173:19
+		ADDED from AndroidManifest.xml:191:19
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
 ADDED from com.google.android.gms:play-services-ads:7.5.0:30:9
 	android:theme
@@ -509,19 +530,19 @@ MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
 MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
 MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
 MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-	android:name
-		ADDED from com.google.android.gms:play-services-base:7.5.0:22:13
 	android:value
 		ADDED from com.google.android.gms:play-services-base:7.5.0:23:13
+	android:name
+		ADDED from com.google.android.gms:play-services-base:7.5.0:22:13
 uses-feature#0x00020000
 ADDED from com.google.android.gms:play-services-maps:7.5.0:24:5
 MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
 MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
 MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
-	android:required
-		ADDED from com.google.android.gms:play-services-maps:7.5.0:26:8
 	android:glEsVersion
 		ADDED from com.google.android.gms:play-services-maps:7.5.0:25:8
+	android:required
+		ADDED from com.google.android.gms:play-services-maps:7.5.0:26:8
 uses-permission#android.permission.GET_ACCOUNTS
 ADDED from com.google.android.gms:play-services-wallet:7.5.0:21:5
 	android:name
@@ -532,10 +553,10 @@ ADDED from com.google.android.gms:play-services-wallet:7.5.0:22:5
 		ADDED from com.google.android.gms:play-services-wallet:7.5.0:22:22
 meta-data#com.google.android.gms.wallet.api.enabled
 ADDED from com.google.android.gms:play-services-wallet:7.5.0:25:9
-	android:name
-		ADDED from com.google.android.gms:play-services-wallet:7.5.0:26:13
 	android:value
 		ADDED from com.google.android.gms:play-services-wallet:7.5.0:27:13
+	android:name
+		ADDED from com.google.android.gms:play-services-wallet:7.5.0:26:13
 receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
 ADDED from com.google.android.gms:play-services-wallet:7.5.0:28:9
 	android:exported

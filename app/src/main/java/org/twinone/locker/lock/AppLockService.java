@@ -63,7 +63,28 @@ public class AppLockService extends Service {
     private HashMap<String,String> appTable;
     public static HashSet<String> appSet;
 
+    /**
+     * Recieve pickup recognition result
+     */
+    private PickupResult pickup_result = PickupResult.OTHER;
 
+    private enum PickupResult {
+        OWER, OTHER
+    }
+
+    public class PickupReceiver extends BroadcastReceiver{
+
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            String result = intent.getStringExtra("pickup");
+            if (result.equals("owner")) {
+                pickup_result = PickupResult.OWER;
+            }
+            else {
+                pickup_result = PickupResult.OTHER;
+            }
+        }
+    };
 
 
     //private List<String> l = new ArrayList<String>();
@@ -497,8 +518,6 @@ public class AppLockService extends Service {
 
         String blueToothStatus = ""+bt;
         int bt_score = bt? 28:0;
-
-        String pickingUpStatus = "N/A";
         String app_cate = "N/A";
         int app_score=30;
         if (appTable.containsKey(open)) {
@@ -508,10 +527,10 @@ public class AppLockService extends Service {
             else app_score = 20;
         }
 
+        // pickup result
+        int pickup_score = pickup_result == PickupResult.OWER ? 20 : 0;
 
-
-
-        xFactor = body_score + wifi_score + bt_score + gps_score;
+        xFactor = body_score + wifi_score + bt_score + gps_score + pickup_score;
        for (String s : wifiTable.keySet()) {
 
        }

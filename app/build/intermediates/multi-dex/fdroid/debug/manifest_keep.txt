@@ -1,0 +1,28 @@
+-keep class org.twinone.locker.lock.ParseApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class org.twinone.locker.ui.MainActivity { <init>(); }
+-keep class org.twinone.locker.util.LaunchInterstitialActivity { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class org.twinone.locker.lock.List_CAtegoriy { <init>(); }
+-keep class org.twinone.locker.lock.AppLockService { <init>(); }
+-keep class org.twinone.locker.lock.LockService { <init>(); }
+-keep class org.twinone.locker.lock.HelperService { <init>(); }
+-keep class org.twinone.locker.lock.WifiService { <init>(); }
+-keep class org.twinone.locker.lock.FetchAddressIntentService { <init>(); }
+-keep class org.twinone.locker.lock.BluetoothService { <init>(); }
+-keep class org.twinone.locker.pickup.ScreenOnOffService { <init>(); }
+-keep class org.twinone.locker.receivers.OutgoingCallReceiver { <init>(); }
+-keep class org.twinone.locker.receivers.BootCompleteReceiver { <init>(); }
+-keep class org.twinone.locker.receivers.NetworkStateReceiver { <init>(); }
+-keep class org.twinone.locker.lock.AppLockService$PickupReceiver { <init>(); }
+-keep class org.twinone.locker.version.Receiver { <init>(); }
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+-keep class com.google.android.gms.wallet.EnableWalletOptimizationReceiver { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

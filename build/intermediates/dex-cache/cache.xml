@@ -2,207 +2,221 @@
 <items version="2" >
 
     <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-32de470758282175b59923c6a3d708d751a14342.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-d88517a00f6b00387d361a66edfc253d1bca8d7f.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-4a28d1f11ad681b02c927ae4cf857dc901c42f16.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-9c932bcd3f098d59ac13e52ebec1cbda6dbd0cd2.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="d405025c600055237c171a0bbabaa49d69696573">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-a0f63ac17f46ae3535302d1cedf3555743e68b95.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-35608965930b96b89546d5049410a8df0990ccfc.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-490fc741ff7bfe8d5597ab2a6e7eb644e92602e1.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-f2b6a0aa677ea891ad8b7161c33ede84f8512afd.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-076f57afe4e9d43d308e0999bbdf840bc6fc27f5.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-2868e4e09a7b4bcc9aada61598b4a89096652c99.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/bolts-android-1.2.0-d20ec6c3ecb1eef8e54690ca6b6bf59928e728a1.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-dae906dfe4c2d33f3711084162f9a03f5a5f19f7.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/libs/Parse-1.9.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/Parse-1.9.4-1422408edd7546fe4308c80f8eb4a921f2d3e33a.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-a79f647b9e806ae2aa6e8b65a06dc5d14d383c85.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-51d44e366daf274cb0dac2f457dd93c6f5498ba4.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/gson-2.3-026d88cf59ea133a403312c39993f1e639c8838f.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/internal_impl-22.0.0-319851c096dc78ccc064f62fb4baebe786ac3678.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/support-annotations-22.0.0-92ae0692550b4baa9fcd7210612e36c4263b609d.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-58d39932a94aea89c3995da2a5a100de41c53f42.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-2da2e06813b0fa7eaa370fabeb24172e8b599c5e.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-640fb4231525a114bd2a717a1b79b7741ac4af1c.jar" />
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-e84d597a4b0ae56a4c6ad5a023e8622cc4013840.jar" />
     </item>
     <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a78183f30e769a98ab4820794f597763088d3065">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-f8f67023c8102dea71e7b064a4f62ecbcc867738.jar" />
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-5403b69bf5c812229229c65365b8fad31fe28c94.jar" />
     </item>
     <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-b3defdf646bab01a1dc095175b9018f9390f3d95.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-4b4ae2472c3023421964c1ba7d49e845dff6e586.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-ca7ef8098a14e63155d6a2a4818bbf0dd8d5e33e.jar" />
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-87de9cb1031fc4073870c2e88acd1b5e5c6b30b3.jar" />
     </item>
     <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-1b7c0ddfabc7eac9a534585100931d779c2d2e1b.jar" />
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-8884a8266998b1935cf77dc6dda692d12ab6fbe5.jar" />
     </item>
     <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-687d153a6b9765fe8b2b537ab5763d9f12f3f8fc.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/internal_impl-22.0.0-d325568da2d19ce730faeb78f673cb8bfc3c178b.jar" />
-    </item>
-    <item
-        jar="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
-        <dex dex="/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/pre-dexed/fdroid/debug/classes-df14a9c2afb6d636c53fe1750142383a84ff2fca.jar" />
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-1a650e61529513115fc03469c75002d58dbc024e.jar" />
+    </item>
+    <item
+        jar="/Users/julie/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/bolts-android-1.2.0-a29c580056abe51d9900e97d761628360139dc5a.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-66d760932b34535c38c75f50e87f916c6f31d13d.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/libs/commons-math3-3.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="13af68e9a11576953f5c4b09436f8207be9d3a27">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/commons-math3-3.5-5557667d5dc67375c23ab8b4bdf27a65b9eb769b.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-198507f1be5bfc45affe234c6a1f5f99f9b77c07.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/internal_impl-22.0.0-9feb9fd428acf39f858447b3a8df07dbf733ee4c.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-4a10476d062b6b63349f4dd8d3dcece2de36aa63.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-09acf6ffa8a9bcc411b73e65b4e745f5dc3ca2ba.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/support-annotations-22.0.0-3d51b14d038c966191331c1b9a29c16843bf91d1.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/libs/Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/Parse-1.9.4-0f63ecb1e69dd2bef302bb071aeac0509f4fa6fb.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-36828418c7488f407451a0d72a3f6b78a49e60bb.jar" />
+    </item>
+    <item
+        jar="/Users/julie/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/gson-2.3-5654174f363bf75ad9fa84ab0fd77e2007ec43ea.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-ae86eb088b0294ab59f3852743732059e07591e9.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-0150ca3cad1b375df627a4f247a2e369187486c5.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/internal_impl-22.0.0-06e53bfd176cec7e6afe927bc2f885422f68d92f.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-ddf980a6d9ad8a45b1b3893b36cf01fffcdd0d70.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-d928413654795aadb9d5b30a69c3b460e0271132.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/libs/weka.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87d87cdd2b32130425429e2a0f23510ba57c3e15">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/weka-8f043bdbbac93ffbc7bd66d907514a35381d430a.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-f129d8ce02f71ea23ac928fd7d41eaba63c9f5a2.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-8b31eed411101940b03c2b5799d5e3f9f0849086.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-de7a10d75b808cad406d9d3bf4226c575a791114.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-67ceb824d871d238ef24b3bbb95c33a0fbda60ad.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-5d5202c8738d88c4b4c6ccbf7635d2c6f1cc0712.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-db703ca0c1e7438107649ff41acaebb806c353d0.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-e33f4bdec373388c3f28c4f1892e082b50a88d23.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-22d9ea4f199b7e609799156349444b0623680c3c.jar" />
+    </item>
+    <item
+        jar="/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/julie/Documents/Android/xfactor/app/build/intermediates/pre-dexed/fdroid/debug/classes-c7c8c393b2ba77c185a426b502eb02dd661d48e3.jar" />
     </item>
 
 </items>

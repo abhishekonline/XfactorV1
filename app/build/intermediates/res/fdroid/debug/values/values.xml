@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/arrays.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <string-array name="lock_type_names">
         <item>@string/pref_list_lock_type_password</item>
@@ -97,12 +97,12 @@
         <item>@string/pro_ft_anim</item>
         <item>@string/pro_ft_more</item>
     </string-array>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="mediaRouteButtonStyle"/>
     <attr format="reference" name="mediaRouteConnectingDrawable"/>
@@ -111,7 +111,7 @@
     <attr format="reference" name="mediaRoutePauseDrawable"/>
     <attr format="reference" name="mediaRoutePlayDrawable"/>
     <attr format="reference" name="mediaRouteSettingsDrawable"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="string" name="title"/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
@@ -120,10 +120,10 @@
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/layout.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/layout.xml -->
     <eat-comment/>
     <item name="isTablet" type="bool">false</item>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <item name="pref_def_delay_status" type="bool">false</item>
     <item name="pref_def_dial_launch" type="bool">false</item>
@@ -136,7 +136,7 @@
     <item name="pref_def_start_boot" type="bool">true</item>
     <item name="pref_def_switch_buttons" type="bool">false</item>
     <item name="pref_def_vibrate" type="bool">true</item>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -156,7 +156,7 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/common_colors.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/common_colors.xml -->
     <eat-comment/>
     <color name="common_action_bar_splitter">#d2d2d2</color>
     <color name="common_signin_btn_dark_text_default">@android:color/white</color>
@@ -168,13 +168,13 @@
     <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
     <color name="common_signin_btn_light_text_focused">#FF737373</color>
     <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/palette.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/palette.xml -->
     <eat-comment/>
     <color name="flat_blue">#2980b9</color>
     <color name="flat_dark_blue">#336699</color>
@@ -183,13 +183,13 @@
     <color name="flat_purple">#9b59b6</color>
     <color name="flat_red">#c0392b</color>
     <color name="flat_turquoise">#16a085</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/palette.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/palette.xml -->
     <eat-comment/>
     <color name="ics_background_end">#ff272D33</color>
     <color name="ics_background_start">#ff020202</color>
@@ -197,29 +197,29 @@
     <color name="item_border">#ddd</color>
     <color name="item_selected_bg">#16a085</color>
     <color name="item_selected_border">#00000000</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/palette.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/palette.xml -->
     <eat-comment/>
     <color name="locker_head_text_color">#ffffff</color>
     <color name="locker_overlay">#48333333</color>
     <color name="main_activity_background">#eeeeee</color>
     <color name="main_button_background">#72333333</color>
     <color name="main_tv_status_color">#48888888</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/palette.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/palette.xml -->
     <eat-comment/>
     <color name="passwordview_button_background">#48333333</color>
     <color name="patternview_background">#48333333</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
@@ -229,7 +229,7 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/palette.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/palette.xml -->
     <eat-comment/>
     <color name="pro_item_desc">#000</color>
     <color name="pro_item_selected_desc">#fff</color>
@@ -238,7 +238,7 @@
     <color name="pro_item_tit_ads">#000</color>
     <color name="pro_item_tit_free">#000</color>
     <color name="pro_item_tit_paid">#000</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="ripple_material_dark">#40ffffff</color>
     <color name="ripple_material_light">#40000000</color>
@@ -246,18 +246,18 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/palette.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/palette.xml -->
     <eat-comment/>
     <color name="switch_off_bg">#888</color>
     <color name="switch_on_bg">#16a085</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/palette.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/palette.xml -->
     <eat-comment/>
     <color name="switch_track">#333</color>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_colors.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_colors.xml -->
     <eat-comment/>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
@@ -307,7 +307,7 @@
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
     <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="appTheme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="test" value="3"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
     <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/><enum name="donate_with_google" value="4"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
@@ -351,11 +351,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">8dp</dimen>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -363,7 +363,7 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="element_horizontal_margin">8dp</dimen>
     <dimen name="element_vertical_margin">8dp</dimen>
@@ -376,10 +376,10 @@
     <dimen name="main_button_radius">10dp</dimen>
     <dimen name="main_horizontal_padding">20dp</dimen>
     <dimen name="main_vertical_padding">10dp</dimen>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="mr_media_route_controller_art_max_height">320dp</dimen>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="navigation_drawer_width">270dp</dimen>
     <dimen name="overlay_radius">10dp</dimen>
@@ -388,26 +388,26 @@
     <dimen name="password_top_margin">10dp</dimen>
     <dimen name="passwordview_button_radius">10dp</dimen>
     <dimen name="patternview_radius">10dp</dimen>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/support_pref_fragment.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/support_pref_fragment.xml -->
     <eat-comment/>
     <dimen name="preference_fragment_padding_bottom">0dp</dimen>
     <dimen name="preference_fragment_padding_side">16dp</dimen>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="switch_radius">1dp</dimen>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/res/values/cast_ids.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/res/values/cast_ids.xml -->
     <eat-comment/>
     <item name="cast_notification_id" type="id"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="home" type="id"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/ids.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/ids.xml -->
     <eat-comment/>
     <item name="lock_ad_container" type="id"/>
     <item name="lock_container" type="id"/>
@@ -432,33 +432,33 @@
     <item name="nav_bottom_buttons" type="id"/>
     <item name="nav_list" type="id"/>
     <item name="nav_update" type="id"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/ids.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/ids.xml -->
     <eat-comment/>
     <item name="share_dlg_et_content" type="id"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/version.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/version.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">7571000</integer>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <item name="pref_def_pattern_size" type="integer">3</item>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/support_pref_fragment.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/support_pref_fragment.xml -->
     <eat-comment/>
     <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/layout.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/layout.xml -->
     <eat-comment/>
     <item name="layout_alias_locker" type="layout">@layout/activity_locker</item>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -476,10 +476,10 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="accept">Accept</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="application_name">X-Factor Locker</string>
     <string name="applist_app_dialer">Incoming call</string>
@@ -499,14 +499,14 @@
     <string name="apps_toast_locked_single">%s locked</string>
     <string name="apps_toast_unlocked_all">All apps unlocked</string>
     <string name="apps_toast_unlocked_single">%s unlocked</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/auth_strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/auth_strings.xml -->
     <eat-comment/>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/support_pref_fragment.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/support_pref_fragment.xml -->
     <eat-comment/>
     <string name="back_button_label">Back</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="background_changed">Background changed</string>
     <string name="background_default">Default</string>
@@ -525,12 +525,12 @@
     <string name="button_confirm">Confirm</string>
     <string name="button_continue">Next</string>
     <string name="cancel">Cancel</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/res/values/cast_strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/res/values/cast_strings.xml -->
     <eat-comment/>
     <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_disconnect">Disconnect</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="change_pass_changed">Password successfully changed</string>
     <string name="change_pass_desc">Enter the new password\n4 or more digits is recommended</string>
@@ -540,7 +540,7 @@
     <string name="change_pass_not_match">Passwords do not match</string>
     <string name="change_pass_tit">Change password</string>
     <string name="cl_title">What\'s New</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/common_strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values/common_strings.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
@@ -574,12 +574,12 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="fragment_title_apps">Applications</string>
     <string name="fragment_title_pro">Pro</string>
@@ -605,7 +605,7 @@
     <string name="main_share">Share</string>
     <string name="main_state_not_running">Not running</string>
     <string name="main_state_running">Running</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="mr_media_route_button_content_description">Cast</string>
     <string name="mr_media_route_chooser_searching">Searching for devices\u2026</string>
@@ -617,13 +617,13 @@
     <string name="mr_media_route_controller_stop">Stop casting</string>
     <string name="mr_system_route_name">System</string>
     <string name="mr_user_route_category_name">Devices</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="nav_apps">Applications</string>
     <string name="nav_b_rate">Rate</string>
     <string name="nav_b_share">Share</string>
     <string name="nav_change">Change lock</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <string name="nav_key_apps" translatable="false">apps</string>
     <string name="nav_key_change" translatable="false">change</string>
@@ -631,7 +631,7 @@
     <string name="nav_key_settings" translatable="false">settings</string>
     <string name="nav_key_statistics" translatable="false">statistics</string>
     <string name="nav_key_status" translatable="false">status</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="nav_pro">Pro</string>
     <string name="nav_settings">Settings</string>
@@ -639,14 +639,14 @@
     <string name="nav_status">Lock</string>
     <string name="nav_test">Test</string>
     <string name="nav_update">Update</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/support_pref_fragment.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/support_pref_fragment.xml -->
     <eat-comment/>
     <string name="next_button_label">Next</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="notification_state_locked">Click here to disable the lock</string>
     <string name="notification_title">Locker is active</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <string name="num0" translatable="false">0</string>
     <string name="num1" translatable="false">1</string>
@@ -659,7 +659,7 @@
     <string name="num8" translatable="false">8</string>
     <string name="num9" translatable="false">9</string>
     <string name="numBack" translatable="false">&lt;</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="old_main_choose_lock_type">Choose Lock Type</string>
     <string name="old_pref_desc_delay_status">When you enter the correct password, next password will be asked after a delay</string>
@@ -670,10 +670,10 @@
     <string name="old_pref_tit_delay_time">Delay time</string>
     <string name="old_pref_tit_dial_launch">Start with call</string>
     <string name="old_pref_tit_vibrate_password">Vibration</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <string name="packagename_dialer" translatable="false">com.android.dialer</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="password_change_confirm">Enter the password again to confirm</string>
     <string name="password_change_error">Error saving password</string>
@@ -689,7 +689,7 @@
     <string name="pattern_change_saved">Pattern changed successfully</string>
     <string name="pattern_change_tit">Change pattern</string>
     <string name="pattern_detected">Pattern detected</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <string name="pref_def_anim_hide_millis" translatable="false">300</string>
     <item name="pref_def_anim_hide_type" type="string">@string/pref_val_anim_fade</item>
@@ -698,16 +698,16 @@
     <item name="pref_def_background" type="string">@string/pref_val_bg_default</item>
     <string name="pref_def_delay_time" translatable="false">60</string>
     <string name="pref_def_dial_launch_number" translatable="false">#12345</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_def_lock_message">Enter password to unlock</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <item name="pref_def_lock_type" type="string">@string/pref_val_lock_type_password</item>
     <string name="pref_def_max_password_retries" translatable="false">0</string>
     <string name="pref_def_password_expiry" translatable="false">0</string>
     <string name="pref_def_pattern_size" translatable="false">3</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_desc_ads">If you like Locker, please support me by enabling ads<stirng/></string>
     <string name="pref_desc_ads_forced">You can currently not disable ads</string>
@@ -742,7 +742,7 @@
     <string name="pref_dlgmsg_max_password_retries">0 is unlimited</string>
     <string name="pref_dlgmsg_password_expiry">Time is in seconds, 0 is unlimited</string>
     <string name="pref_dlgmsg_recovery_code">Your current code is %s</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <string name="pref_key_ads" translatable="false">com.twinone.locker.pref.show_ads</string>
     <string name="pref_key_anim_hide_millis" translatable="false">com.twinone.locker.pref.anim_hide_millis</string>
@@ -789,7 +789,7 @@
     <string name="pref_key_temp_wifi_unlock_state" translatable="false">temp.unlockstate</string>
     <string name="pref_key_version" translatable="false">com.twinone.locker.old_version</string>
     <string name="pref_key_vibrate" translatable="false">com.twinone.locker.pref.vibrate_keypress</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="pref_list_anim_fade">Fade</string>
     <string name="pref_list_anim_none">Disabled</string>
@@ -846,7 +846,7 @@
     <string name="pref_tit_temp_wifi_unlock_state">Stop with wifi</string>
     <string name="pref_tit_vibrate_password">Vibration</string>
     <string name="pref_tit_vibrate_pattern">Vibration</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings_intl.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings_intl.xml -->
     <eat-comment/>
     <string name="pref_val_anim_fade" translatable="false">anim_fade</string>
     <string name="pref_val_anim_none" translatable="false">anim_none</string>
@@ -875,7 +875,7 @@
     <string name="pref_val_perf_normal" translatable="false">250</string>
     <string name="pref_val_perf_very_high" translatable="false">150</string>
     <string name="pref_val_perf_very_low" translatable="false">350</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="preferences_tit">Preferences</string>
     <string name="pro_b_main">Pro</string>
@@ -908,14 +908,14 @@
     <string name="share_dlg_later">Later</string>
     <string name="share_dlg_never">Never</string>
     <string name="share_promo_text">Check out Twinone App Locker, the free app that protects your privacy and apps. https://play.google.com/store/apps/details?id=com.twinone.locker</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/support_pref_fragment.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/support_pref_fragment.xml -->
     <eat-comment/>
     <string name="skip_button_label">Skip</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="update_available">Update available</string>
     <string name="update_available_msg">There is a new update of this app available. The current version will stop working in %d days.</string>
@@ -932,17 +932,17 @@
     <string name="vc_tit_new_version">Update</string>
     <string name="vc_tit_unsupported">Sorry</string>
     <string name="vc_update">Update</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_strings.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="welcome_message">You need a password before you can lock apps.\nDo you want to setup a password now?</string>
     <string name="welcome_tit">Welcome to Locker!</string>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!--
@@ -961,7 +961,7 @@
         <item name="android:buttonStyle">@style/Theme_Applist_Button</item>
         <!-- <item name="android:textColor">#ffffff</item> -->
     </style>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Animation.AppCompat.DropDownUp" parent="android:Animation">
         <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>
@@ -1816,7 +1816,7 @@
         <item name="android:scaleType">center</item>
         <item name="android:background">?attr/selectableItemBackground</item>
     </style>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ButtonBar" parent="@android:style/ButtonBar">
         <item name="android:background">#0000</item>
@@ -1833,7 +1833,7 @@
         <item name="android:imageButtonStyle">@style/Theme_Lock_ImageButton</item>
         <item name="android:textColor">#ffffff</item>
     </style>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -2093,7 +2093,7 @@
         <item name="windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
     </style>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_iap_style.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/res/values/admob_iap_style.xml -->
     <eat-comment/>
     <style name="Theme.IAPTheme" parent="android:Theme">
     <item name="android:windowIsTranslucent">true</item>
@@ -2103,7 +2103,7 @@
     <item name="android:windowIsFloating">true</item>
     <item name="android:backgroundDimEnabled">false</item>
   </style>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.MediaRouter" parent="">
         <item name="mediaRouteButtonStyle">@style/Widget.MediaRouter.MediaRouteButton</item>
@@ -2125,14 +2125,14 @@
         <item name="mediaRoutePlayDrawable">@drawable/mr_ic_play_light</item>
         <item name="mediaRoutePauseDrawable">@drawable/mr_ic_pause_light</item>
     </style>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="Theme_Applist_Button" parent="@android:style/Widget.Button">
         <item name="android:background">@drawable/applist_button_background</item>
@@ -2163,7 +2163,7 @@
         <item name="android:windowIsFloating">true</item>
         <item name="android:backgroundDimEnabled">false</item>
     </style>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_styles.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/res/values/wallet_styles.xml -->
     <eat-comment/>
     <style name="WalletFragmentDefaultButtonTextAppearance">
         <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
@@ -2197,7 +2197,7 @@
         <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
         <item name="maskedWalletDetailsLogoImageType">classic</item>
     </style>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
@@ -2282,7 +2282,7 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.MediaRouter.Light.MediaRouteButton" parent="Widget.AppCompat.Light.ActionButton">
         <item name="android:minWidth">56dp</item>

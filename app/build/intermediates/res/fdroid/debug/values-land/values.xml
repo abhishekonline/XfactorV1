@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-land/values.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-land/values.xml -->
     <eat-comment/>
     <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
@@ -9,7 +9,7 @@
     <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
     <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
-    <!-- From: file:/Users/ThomasZhao/Documents/XfactorV1/app/src/main/res/values-land/layout.xml -->
+    <!-- From: file:/Users/julie/Documents/Android/xfactor/app/src/main/res/values-land/layout.xml -->
     <eat-comment/>
     <item name="layout_alias_locker" type="layout">@layout/activity_locker_twopanes</item>
 </resources>

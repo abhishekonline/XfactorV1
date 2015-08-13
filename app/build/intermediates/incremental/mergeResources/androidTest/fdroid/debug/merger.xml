@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Skandy\Documents\GitHub\XfactorV1\app\src\androidTest\res"/><source path="C:\Users\Skandy\Documents\GitHub\XfactorV1\app\build\generated\res\rs\androidTest\fdroid\debug"/><source path="C:\Users\Skandy\Documents\GitHub\XfactorV1\app\build\generated\res\generated\androidTest\fdroid\debug"/></dataSet><dataSet config="androidTestFdroid"><source path="C:\Users\Skandy\Documents\GitHub\XfactorV1\app\src\androidTestFdroid\res"/></dataSet><mergedItems/></merger>
