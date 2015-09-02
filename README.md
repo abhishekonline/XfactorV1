@@ -1,10 +1,11 @@
 AppLocker
 =========
 
-https://play.google.com/store/apps/details?id=com.twinone.locker
-
 Twinone App Locker is a free Android app that will prevent people from accessing your apps.
 You can lock any app installed on the device, and choose between pattern and password locks.
+Modified with Contextual aware smart locker, it will try not to prompt yoy for password at home, office .
+It will learn from your Wifi and Gps location about your location. Bluetooth paired device also help to prevent 
+password prompt. Hope you will enjoy using it. Feel free to develop it further. 
 
 Contribute
 ==========
@@ -12,29 +13,6 @@ Contribute
 If you want to add a feature or correct a bug (there are a lot! :D), you can send me a pull request.
 I'll be happy to review and merge them.
 
-Translate
-=========
-
-The app is currently available in 4 languages (Name: Translator):
-
- * English: Twinone
- * Spanish: Twinone, [jmendeth](https://github.com/jmendeth)
- * German: [Patschi](https://github.com/patschi)
- * Dutch: Twinone
- * Catalan: [jmendeth](https://github.com/jmendeth), [nrikee](https://github.com/nrikee)
-
-If you want to translate the app, send a pull request with the added file /values-XX/strings.xml
-
-
-
-Download
-========
-
-You can download the app from the Google Play Store at the following url: https://play.google.com/store/apps/details?id=com.twinone.locker
-
-License
-=======
-See the [LICENSE](https://github.com/twinone/AppLocker/blob/master/LICENSE) file.
 
 
 Eclipse
